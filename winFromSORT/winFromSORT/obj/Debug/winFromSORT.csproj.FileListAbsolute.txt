@@ -1,0 +1,11 @@
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\bin\Debug\winFromSORT.exe.config
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\bin\Debug\winFromSORT.exe
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\bin\Debug\winFromSORT.pdb
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\obj\Debug\winFromSORT.csproj.AssemblyReference.cache
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\obj\Debug\winFromSORT.csproj.SuggestedBindingRedirects.cache
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\obj\Debug\winFromSORT.Form1.resources
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\obj\Debug\winFromSORT.Properties.Resources.resources
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\obj\Debug\winFromSORT.csproj.GenerateResource.cache
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\obj\Debug\winFromSORT.csproj.CoreCompileInputs.cache
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\obj\Debug\winFromSORT.exe
+C:\Users\R.Makarenkov\Desktop\winFromSORT\winFromSORT\obj\Debug\winFromSORT.pdb
