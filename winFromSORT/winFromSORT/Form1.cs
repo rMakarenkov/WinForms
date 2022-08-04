@@ -33,6 +33,8 @@ namespace winFromSORT
 
 		private void button2_Click(object sender, EventArgs e)
 		{
+			int x = 0;
+
 			for (int i = 0; i < array.Length - 1; i++)
 			{
 				for (int j = 0; j < array.Length - 1; j++)
@@ -43,8 +45,12 @@ namespace winFromSORT
 						array[j] = array[j + 1];
 						array[j + 1] = temp;
 					}
+
+					x++;
 				}
 			}
+
+			Text = x.ToString();
 
 			textBox3.Clear();
 
@@ -75,4 +81,3 @@ namespace winFromSORT
 		}
 	}
 }
- 
