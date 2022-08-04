@@ -35,9 +35,9 @@ namespace winFromSORT
 		{
 			int x = 0;
 
-			for (int i = 0; i < array.Length - 1; i++)
+			for (int i = array.Length - 1; i > 0; i--)
 			{
-				for (int j = 0; j < array.Length - 1; j++)
+				for (int j = 0; j < i; j++)
 				{
 					if (array[j] > array[j + 1])
 					{
@@ -63,6 +63,9 @@ namespace winFromSORT
 		private void button3_Click(object sender, EventArgs e)
 		{
 			int entValue = Convert.ToInt32(textBox2.Text);
+
+			int x = 0;
+
 			for (int i = 0; i < array.Length; i++)
 			{
 				if (array[i] == entValue)
@@ -77,7 +80,11 @@ namespace winFromSORT
 						MessageBox.Show("Такого элемента в массиве нет");
 					}
 				}
+
+				x++;
 			}
+
+			Text = x.ToString();
 		}
 	}
 }
