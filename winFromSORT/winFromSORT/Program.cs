@@ -14,6 +14,8 @@ namespace winFromSORT
 		[STAThread]
 		static void Main()
 		{
+			new Main();
+
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());

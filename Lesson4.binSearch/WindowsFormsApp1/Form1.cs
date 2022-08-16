@@ -18,7 +18,7 @@ namespace WindowsFormsApp1
 			InitializeComponent();
 		}
 
-		int[] array = new int[10000];
+		int[] array = new int[150];
 
 		private void ButtonAddSort_Click(object sender, EventArgs e)
 		{
